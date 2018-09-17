@@ -1,0 +1,12 @@
+JSPHandler\CandidatesServlet.class
+JSPHandler\LoginServlet.class
+JSPHandler\LogoutServlet.class
+JSPHandler\SignInServlet.class
+upec\groupe1\servlet\ProfileServlet.class
+JSPHandler\DetailBVServlet.class
+JSPHandler\SortResultsServlet.class
+upec\groupe1\imports\LoadData.class
+upec\groupe1\servlet\MailServlet.class
+upec\groupe1\servlet\ScoreServlet.class
+JSPHandler\ResultsByBVServlet.class
+upec\groupe1\servlet\VoteOfficesServlet.class
